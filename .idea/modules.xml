@@ -2,30 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/restful-web-services/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/restful-web-services/.mvn/.mvn.iml" />
-      <module fileurl="file://$PROJECT_DIR$/currency-exchange-service/.mvn/.mvn1.iml" filepath="$PROJECT_DIR$/currency-exchange-service/.mvn/.mvn1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/limits-service/.mvn/.mvn2.iml" filepath="$PROJECT_DIR$/limits-service/.mvn/.mvn2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/currency-conversion-service/.mvn/.mvn3.iml" filepath="$PROJECT_DIR$/currency-conversion-service/.mvn/.mvn3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot-jpa/.mvn/.mvn4.iml" filepath="$PROJECT_DIR$/springboot-jpa/.mvn/.mvn4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/naming-server/.mvn/.mvn5.iml" filepath="$PROJECT_DIR$/naming-server/.mvn/.mvn5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-server/.mvn/.mvn6.iml" filepath="$PROJECT_DIR$/spring-cloud-config-server/.mvn/.mvn6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot-basics/.mvn/.mvn7.iml" filepath="$PROJECT_DIR$/springboot-basics/.mvn/.mvn7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot-jpa/src/main/main.iml" filepath="$PROJECT_DIR$/springboot-jpa/src/main/main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot-basics/src/main/main1.iml" filepath="$PROJECT_DIR$/springboot-basics/src/main/main1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/restful-web-services/src/main/main2.iml" filepath="$PROJECT_DIR$/restful-web-services/src/main/main2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/limits-service/src/main/main3.iml" filepath="$PROJECT_DIR$/limits-service/src/main/main3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/currency-conversion-service/src/main/main4.iml" filepath="$PROJECT_DIR$/currency-conversion-service/src/main/main4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-server/src/main/main5.iml" filepath="$PROJECT_DIR$/spring-cloud-config-server/src/main/main5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/naming-server/src/main/main6.iml" filepath="$PROJECT_DIR$/naming-server/src/main/main6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/currency-exchange-service/src/main/main7.iml" filepath="$PROJECT_DIR$/currency-exchange-service/src/main/main7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot-jpa/src/test/test.iml" filepath="$PROJECT_DIR$/springboot-jpa/src/test/test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot-basics/src/test/test1.iml" filepath="$PROJECT_DIR$/springboot-basics/src/test/test1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-server/src/test/test2.iml" filepath="$PROJECT_DIR$/spring-cloud-config-server/src/test/test2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/currency-conversion-service/src/test/test3.iml" filepath="$PROJECT_DIR$/currency-conversion-service/src/test/test3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/limits-service/src/test/test4.iml" filepath="$PROJECT_DIR$/limits-service/src/test/test4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/currency-exchange-service/src/test/test5.iml" filepath="$PROJECT_DIR$/currency-exchange-service/src/test/test5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/restful-web-services/src/test/test6.iml" filepath="$PROJECT_DIR$/restful-web-services/src/test/test6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/naming-server/src/test/test7.iml" filepath="$PROJECT_DIR$/naming-server/src/test/test7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/currency-conversion-service/currency-conversion-service.iml" filepath="$PROJECT_DIR$/currency-conversion-service/currency-conversion-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/currency-exchange-service/currency-exchange-service.iml" filepath="$PROJECT_DIR$/currency-exchange-service/currency-exchange-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git-localconfig-repo/git-localconfig-repo.iml" filepath="$PROJECT_DIR$/git-localconfig-repo/git-localconfig-repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/naming-server/naming-server.iml" filepath="$PROJECT_DIR$/naming-server/naming-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server.iml" filepath="$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server.iml" />
     </modules>
   </component>
 </project>
